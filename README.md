@@ -1,2 +1,2 @@
-# 2024-1-AI-Class
+# Linreg
 Past assignment of the AI class
